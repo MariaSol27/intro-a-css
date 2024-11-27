@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+
+img {
+    width: 100%; 
+    max-width: 200px; 
+    border-radius: 15px;
+    width: 300px; 
+    height: auto; 
+    display: block; margin-left: auto; margin-right: auto;
+
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    color: black;
+}
+
+dt.termino {
+    text-align: center;
+    color: black;
+    background-color: orangered; /* Color de fondo */
+    border: 2px solid orangered;    /* Borde gris oscuro */
+    padding: 10px 5px;        /* 10px para arriba y abajo, 30px para izquierda y derecha */
+    margin: 10px 10px;            /* Margen superior e inferior */
+    border-radius: 8px;       /* Bordes redondeados */
+    align-items: center;
+    width: 50%;   /* El ancho es el 50% del contenedor padre */
+    height: 10%;  /* La altura es el 30% del contenedor padre */
+}
